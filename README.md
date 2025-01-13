@@ -5,9 +5,9 @@
 - 💡 "Transforme desafios em oportunidades e sonhos em conquistas. O caminho para o sucesso começa com a coragem de dar o primeiro passo."
 
 <div align="center">
-  <a href="https://github.com/samuelMesquita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelMesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelMesquita&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/RannahElloren">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RannahElloren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RannahElloren&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
