@@ -1,6 +1,6 @@
-##  Hello world, eu sou a Rannah Elloren, sou apaixonada em viajar! ✈️
+##  Hello world, eu sou a Rannah Elloren, sou apaixonada por viajar! ✈️
 
-- 🌱 I’m currently learning Html, CSS, Javascript 
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - ⚡ Fun fact: Gosto de aprender coisas novas e tenho uma porquinha-da-índia chamada Limão 🍋
 - 💡 "Transforme desafios em oportunidades e sonhos em conquistas. O caminho para o sucesso começa com a coragem de dar o primeiro passo."
 
